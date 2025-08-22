@@ -30,7 +30,7 @@ Build a machine learning model that predicts housing prices using both structure
 - Model performance varies across different price ranges
 
 ## Files
-- `housing_price_prediction.ipynb`: Complete Jupyter notebook
+- `Multimodal ML.ipynb`: Complete Jupyter notebook
 - `housing_price_multimodal_model.h5`: Trained model
 - `tabular_preprocessor.pkl`: Preprocessing pipeline for tabular data
 
