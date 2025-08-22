@@ -48,3 +48,7 @@ Build a machine learning model that predicts housing prices using both structure
 4. Experiment with different CNN architectures (ResNet, EfficientNet)
 5. Implement hyperparameter tuning
 6. Add uncertainty estimation to predictions
+
+
+Note:
+`housing_price_multimodal_model.h5` file was so heavy that it was unable to upload on GitHub
